@@ -1,0 +1,11 @@
+z=15
+z+=7
+print("z=",z)
+z-=5
+print("z=",z)
+z*=4
+print("z=",z)
+z/=5
+print("z=",z)
+z%=4
+print("z=",z)
