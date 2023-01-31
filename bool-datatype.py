@@ -2,8 +2,15 @@ a=20
 b=30
 c=a<b       # true
 d=a>b       # false
+e=True
+f=False
+
 print(c)
 print(d)
+
+print(type(e))
+print(type(f))
+
                            # True = 1
                            # False = 0
 a1=True+True
