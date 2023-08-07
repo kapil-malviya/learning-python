@@ -151,7 +151,3 @@ you can use tools like `pip` to install them. Refer to the documentation of each
 If you'd like to contribute to this repository by adding more code examples, fixing errors, or enhancing explanations, 
 please feel free to submit a pull request. Your contributions are greatly appreciated!
 
----
-
-**Note:** This README provides a high-level overview of the repository's contents. For detailed code examples and 
-explanations, please explore the individual folders and files. Happy coding! 🐍
