@@ -1,6 +1,6 @@
 # Python
 
-Welcome to the **Python** repository! This repository contains a collection of code examples and explanations 
+This repository contains a collection of code examples and explanations 
 to help you grasp fundamental concepts in Python programming. Whether you're new to programming or looking to refresh 
 your skills, this repository is designed to provide you with hands-on practice and understanding of key topics.
 
@@ -31,7 +31,7 @@ your skills, this repository is designed to provide you with hands-on practice a
 10. [Getting Started](#getting-started)
 11. [Dependencies](#dependencies)
 12. [Contributions](#contributions)
-13. [License](#license)
+
 
 ## Introduction
 
@@ -150,4 +150,3 @@ you can use tools like `pip` to install them. Refer to the documentation of each
 
 If you'd like to contribute to this repository by adding more code examples, fixing errors, or enhancing explanations, 
 please feel free to submit a pull request. Your contributions are greatly appreciated!
-
