@@ -1,1 +1,0 @@
-print("my 1st program after first.py is this 1")
