@@ -1,2 +1,0 @@
-Radius :1 cm,Area :3.14 sq cm,Circumference :6.28 cm
-Radius :1 cm,Area :3.14 sq cm,Circumference :6.28 cm
