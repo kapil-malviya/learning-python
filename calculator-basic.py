@@ -1,10 +1,6 @@
 # arithmatic calculator
 
-print()
-print()
-
-print("             Universal Calculator")
-print()
+print("Universal Calculator")
 print()
 
 print('This Calculator performs all arithmatic operations')
