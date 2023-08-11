@@ -1,3 +1,5 @@
+# finding sum of two greatest no.(marks)
+
 name=str(input("Enter the name of student : "))
 roll_no=int(input("Enter the roll no. : "))
 sub=str(input("Enter the name of subject : "))
